@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Excerpts
+excerpt_separator: <!--more-->
+
+# Setup
+title:            FanLine
+tagline:          'You Play. We Contribute.'
+description:      'A new and fun way to stay involved as a fan. Predict games, score points, climb the leaderboard and help win athletic scholarship funds for your school. And it is free!'
+url:              http://www.thefanline.com
+
+#author:
+#  name:           'Mark Otto'
+#  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+mainsite:
+  url:           http://www.thefanline.com
